@@ -2,6 +2,8 @@
 
 A skillshot VFX sandbox built with **Three.js**, **Vite** and hand-written **GLSL**.
 
+**Live preview:** [GitHub Pages](https://legerdo.github.io/threejs-vfx/)
+
 **One hundred abilities** across fifteen schools, and two ways to aim them. Fifty are **line
 casts**: press the key to arm, a League-of-Legends style arrow appears on the ground and swings
 with the mouse, click to fire. The other fifty are **far casts**: the arrow is replaced by a circle
